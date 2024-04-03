@@ -33,6 +33,6 @@ This website runs locally.
 **Short demo video** of our application showing the main functions is available on the following link: [Link to demo video](https://drive.google.com/file/d/1vjRyDmO0yS5MXCZ0urfAP3h5ZdRero8P/view?usp=sharing)
 
 **Group work:**
-Viet Hang Thu Le: Search and filter dramas, download Json, sentiment analysis, chart analysis
-Nguyet Ha Phung: Drama detail, wordcloud analysis, title bar logo
-Thi Ha My Pham: Navigation bar, About, readme.md
+- Viet Hang Thu Le: Search and filter dramas, download Json, sentiment analysis, chart analysis
+- Nguyet Ha Phung: Drama detail, wordcloud analysis, title bar logo
+- Thi Ha My Pham: Navigation bar, About, readme.md
